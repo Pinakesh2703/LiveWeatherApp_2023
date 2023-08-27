@@ -1,1 +1,1 @@
-# LiveWeatherApp_2023
+Live Weather App that brings real-time weather information right at your fingertips! Powered by API technology and developed using python & tkinter, this application provides users with accurate and up-to-date weather forecasts, ensuring they stay informed and prepared for any weather condition.# LiveWeatherApp_2023
